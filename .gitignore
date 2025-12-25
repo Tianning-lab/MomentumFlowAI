@@ -1,0 +1,43 @@
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Credentials (IMPORTANT: Never commit these!)
+*_credentials.json
+*.env
+.env
+
+# Logs
+*.log
+logs/
+
+# Data files
+*.csv
+*.xlsx
+data/
+
+# Temporary files
+tmp/
+temp/
