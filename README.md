@@ -226,3 +226,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <b>© 2025 New Way Capital Advisory Limited</b><br/>
   Made with ❤️ in Geneva, Switzerland
 </p>
+
+---
+
+## Live Demo
+
+MomentumFlow AI is live at **[nwc-advisory.com/app](https://nwc-advisory.com/app/)** — part of the [New Way Capital Advisory](https://nwc-advisory.com) analytics platform.
+
+### Related Tools
+
+- [Portfolio Analyser](https://nwc-advisory.com/app/analyser/) — Institutional portfolio analysis
+- [Risk API](https://nwc-advisory.com) — 7-signal market risk scoring
+- [Property Comps](https://property.nwc-advisory.com) — Comparable sales across 11 markets
+- [Portfolio X-Ray](https://nwc-advisory.com/xray) — Free fund look-through analysis
+
